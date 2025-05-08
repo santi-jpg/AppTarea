@@ -7,7 +7,6 @@ Esta es una aplicación web de gestión de tareas construida con un backend en E
 * **Creación de Tareas:** Permite a los usuarios agregar nuevas tareas con un título y una descripción.
 * **Listado de Tareas:** Muestra todas las tareas pendientes y completadas.
 * **Marcar como Completada:** Los usuarios pueden marcar tareas como completadas.
-* **Edición de Tareas:** Permite modificar el título y la descripción de las tareas existentes.
 * **Eliminación de Tareas:** Los usuarios pueden eliminar tareas que ya no necesiten.
 * **Interfaz Intuitiva:** Diseño limpio y fácil de usar gracias a React y Tailwind CSS.
 
@@ -81,9 +80,7 @@ Sigue estos pasos para configurar y ejecutar la aplicación en tu entorno local:
 
 Aquí hay algunas ideas para futuras mejoras:
 
-* Implementación de autenticación de usuarios.
 * Funcionalidad de filtrado y búsqueda de tareas.
-* Persistencia de datos en una base de datos más robusta (por ejemplo, PostgreSQL, MongoDB).
 * Pruebas unitarias e de integración.
 * Mejoras en la interfaz de usuario y la experiencia del usuario.
 
@@ -91,6 +88,3 @@ Aquí hay algunas ideas para futuras mejoras:
 
 ¡Las contribuciones son bienvenidas! Si encuentras algún error o tienes alguna sugerencia, no dudes en abrir un issue o enviar un pull request.
 
-## Licencia
-
-[Incluye aquí la licencia de tu proyecto, por ejemplo, MIT License]
