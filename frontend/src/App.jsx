@@ -14,11 +14,11 @@ function App() {
         <div className="container mx-auto mt-8">
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/tareas" element={<TaskList />} /> {/* Puedes tener una ruta específica para las tareas */}
-            <Route path="/login" element={<LoginForm />} /> {/* Nueva ruta para el formulario de login */}
-            <Route path="/register" element={<RegisterForm/>} /> {/* Nueva ruta para el formulario de login */}
-            ,<Route path="/nueva-tarea" element={<TaskForm />} /> {/* Nueva ruta para el formulario de tareas */}
-            {/* Puedes agregar más rutas aquí */}
+            <Route path="/tareas" element={<TaskList />} /> 
+            <Route path="/login" element={<LoginForm />} /> 
+            <Route path="/register" element={<RegisterForm/>} /> 
+            ,<Route path="/nueva-tarea" element={<TaskForm />} /> 
+            
           </Routes>
         </div>
       </div>
